@@ -1,4 +1,3 @@
-/*write out json, create an empty object with key of streams*/
 {
   "streams": []
 }
