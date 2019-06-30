@@ -3,5 +3,8 @@
 - Can create a `db.json` file
 - Any records that are trying to be saved to API Server will automatically be stored in `db.json`
 
-1. [] Create `db.json` with resource type: streams
-      - As streams are created, they will be stored into the array of streams (within `db.json`)
+1. [x] Create `db.json` with resource type: streams
+    - As streams are created, they will be stored into the array of streams (within `db.json`)
+    - along the way, the file will store more and more streams records
+2. [] Edit `tests` to `start`
+    - remove tests and start the json-server on port 3001 and watch db.json file for changes
