@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "this",
+      "description": "is a description",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "a description for the second stream",
+      "id": 2
+    },
+    {
+      "title": "Nombre Trois",
+      "description": " ceci est une description du troisième enregistrement",
+      "id": 3
+    }
+  ]
+}
