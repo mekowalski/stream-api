@@ -14,6 +14,12 @@
       "title": "Nombre Trois",
       "description": " ceci est une description du troisième enregistrement",
       "id": 3
+    },
+    {
+      "title": "Title Four",
+      "description": "I created this title with my attached user ID",
+      "userId": "109131929896803015656",
+      "id": 4
     }
   ]
 }
